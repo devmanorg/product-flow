@@ -1,6 +1,5 @@
 # {Название сценария}
 
-USE [Краткий сценарий использования](./short-use-case/).
 
 Действующее лицо: {Название роли + ссылка}
 
@@ -23,3 +22,5 @@ USE [Краткий сценарий использования](./short-use-cas
 ## Пользовательские истории
 
 - …
+
+[Сеанс использования](https://github.com/devmanorg/product-flow/blob/main/products/dvmn_org/use-session/)
