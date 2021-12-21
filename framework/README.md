@@ -6,6 +6,7 @@
 
 - [Продукт](./product/)
 - [Фича](#)
+- User Story — История пользователя в варианте Agile. [Описание](/products/dvmn_org/agile-user-story/)
 
 ## Принятые решения
 
