@@ -30,7 +30,3 @@
 
 - [Задание на фреймворк](./assignment.yaml)
 - …
-
-## ⚐ Further Roadmap
-
-- …

@@ -37,7 +37,3 @@
 - [Задание на продукт](./assignment.yaml)
 - [Пользовательские истории](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8), статья на Википедии
 - …
-
-## ⚐ Further Roadmap
-
-- …

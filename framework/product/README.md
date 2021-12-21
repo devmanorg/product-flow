@@ -12,10 +12,6 @@
 
 - [Задание на продукт](./assignment.yaml)
 - …
-
-## ⚐ Further Roadmap
-
-- …
 ```
 
 Файл `assignment.yaml`:
