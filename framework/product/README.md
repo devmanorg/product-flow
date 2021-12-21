@@ -18,6 +18,9 @@
 
 ```yaml
 use: product
+includes:
+  - …
+
 benefit:
   - …
 
