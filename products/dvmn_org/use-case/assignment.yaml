@@ -1,0 +1,25 @@
+use: product
+benefit:
+  - …
+
+referencies:
+  - [Стандартная форма для СИ](https://sharkdevelop.com/wp-content/uploads/2019/11/1_4-6zxgd6oP8MS9p7WTI_fQ.jpeg)
+
+competitors:
+  - …
+
+user_stories:
+  - …
+
+limitations:
+  - …
+
+risks:
+  - Лишние сценарии использования для нелинейного по характеру функционала → Горы бесполезного текста.
+  - …
+
+how_to_check:
+  - …
+
+how_to_estimate:
+  - …
