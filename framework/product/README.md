@@ -21,27 +21,27 @@ use: product
 includes:
   - …
 
-benefit:
+benefit: # Польза от продукта
   - …
 
-referencies:
+referencies: # Примеры похожих продуктов
   - …
 
-competitors:
+competitors: # Другие способы решить заявленные проблемы
   - …
 
-user_stories:
+user_stories: # Пользовательские истории
   - …
 
-limitations:
+limitations: # Ограничения, распространяющиеся на весь продукт целиком
   - …
 
-risks:
+risks: # Риски, которыми надо управлять: мониторить, подстраховываться и иметь готовый план действий
   - …
 
-how_to_check:
+how_to_check: # Как проверить, что продукт готов
   - …
 
-how_to_estimate:
+how_to_estimate: # Как оценить объем и сроки
   - …
 ```
