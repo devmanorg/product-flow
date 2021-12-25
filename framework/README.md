@@ -13,6 +13,8 @@
 
 ![](./assignment_flow.drawio)
 
+![](./sub_products_in_solo.drawio)
+
 ## 🛠️ Что понадобится
 
 - [Задание на фреймворк](./assignment.yaml)
