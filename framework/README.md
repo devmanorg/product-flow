@@ -11,9 +11,9 @@
 - [Задание на продукт](./product/)
     - User Story — История пользователя в варианте Agile. [Описание](/products/dvmn_org/agile-user-story/)
 
-![](./assignment_flow.drawio)
+![](./images/assignment_flow.drawio.png)
 
-![](./sub_products_in_solo.drawio)
+![](./images/sub_products_in_solo.drawio.png)
 
 ## 🛠️ Что понадобится
 
