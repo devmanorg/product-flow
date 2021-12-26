@@ -9,7 +9,7 @@
 ## Сущности фреймворка
 
 - [Задание на продукт](./product/)
-    - User Story — История пользователя в варианте Agile. [Описание](/products/dvmn_org/agile-user-story/)
+    - User Story — История пользователя в варианте Agile. [Описание](/framework/agile-user-story/)
 
 ![](./images/assignment_flow.drawio.png)
 
