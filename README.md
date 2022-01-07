@@ -43,6 +43,10 @@
 - [Импорт данных из gist-документов](https://gist.github.com/multipassport/06df9f08a78c463086045b80dcaf0ede)
 - [Схема API endpoints](https://gist.github.com/mukhametdinovigor/320cc8f221d054b44bf3e9cbe27e1169)
 
+### Энциклопедия Девмана
+
+- [Код отслеживания просмотров и кликов по баннеру](https://gist.github.com/pelid/feea98cff321713b0c15dd05f00cf1f1)
+
 ## Читать далее
 
 - [Задание на каталог](./assignment.yaml)
