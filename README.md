@@ -28,6 +28,7 @@
 
 - [Модели данных Django](/products/dvmn_org/django_orm_models/assignment.yaml)
 - [Графическая схема SQL БД](/products/dvmn_org/sql-db-graphical-scheme/assignment.yaml)
+- [Деплой в dev-окружение](/products/dvmn_org/dev-deploy/assignment.yaml)
 - [Проектирование чего угодно](/framework/product/assignment.yaml)
 - [Документирование пользовательской истории](/framework/agile-user-story/assignment.yaml)
 
