@@ -43,6 +43,7 @@
 - [Графическая схема БД](https://gist.github.com/savilard/c1bf33d7b5116b7b74ede01ce535493c)
 - [Импорт данных из gist-документов](https://gist.github.com/multipassport/06df9f08a78c463086045b80dcaf0ede)
 - [Схема API endpoints](https://gist.github.com/mukhametdinovigor/320cc8f221d054b44bf3e9cbe27e1169)
+- [Деплой в dev-окружение](https://gist.github.com/multipassport/9755fe9f2c5c3470b89a0f0f5a184e4e)
 - [Прототип системы аутентификации и авторизации](https://gist.github.com/mukhametdinovigor/b86aaadd2c358b8410f6483d230a0400)
 
 ### Сайт Девмана
