@@ -39,7 +39,7 @@
 
 ### Сайт менторов
 
-- 🔒 [Сайт для менторов](https://github.com/devmanorg/mentors/tree/main/product_docs)
+- [Сайт для менторов](https://raw.githubusercontent.com/devmanorg/mentors/main/product_docs/assignment.yaml?token=GHSAT0AAAAAABNDXBVTLQLVPKNIZS75R57KYQA6CEA)
 - [Графическая схема БД](https://gist.github.com/savilard/c1bf33d7b5116b7b74ede01ce535493c)
 - [Импорт данных из gist-документов](https://gist.github.com/multipassport/06df9f08a78c463086045b80dcaf0ede)
 - [Схема API endpoints](https://gist.github.com/mukhametdinovigor/320cc8f221d054b44bf3e9cbe27e1169)
