@@ -49,7 +49,7 @@
 ### Сайт Девмана
 
 - [Перевести уведомления GA о поступлении платежа с фронтенда на server-to-server](https://gist.github.com/pelid/eb532bebec35a3164f149480beee340d)
-- [Трекинг в Google Analytics пробной недели](https://gist.github.com/pelid/749a463d3ae9f0f58addbe08bc7f2c7a)
+- [Трекинг в Google Analytics пробной недели](https://gist.github.com/Fiskless/64faae4d3ce1d6b29f166bd3c0e05a89)
 
 ### Энциклопедия Девмана
 
