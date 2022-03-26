@@ -61,6 +61,18 @@
 - Система подтверждения пользовательского ввода (задание в разработке)
 - [Схема состояний бота на Node-RED](https://gist.github.com/pelid/55cef07f7aef4de7e250afcf7194a2e9)
 
+### Бот «МФВЦ» для автоматической записи на сайте
+
+Технологии: Django, Selenium, asyncio, aiogram, Telethon, Docker, Kubernetes
+
+- [Задание на бота](https://gitlab.levelupdev.ru/traineeship/mfvc-bot/-/blob/master/assignment.yaml)
+
+### Марафон-бот
+
+Технологии: Django, DRF, asyncio, aiogram, Docker, Kubernetes
+
+- [Задание на чат-бота](https://gitlab.levelupdev.ru/traineeship/marathon-bot/-/blob/master/assignment.yaml)
+
 ## Читать далее
 
 - [Задание на каталог](./assignment.yaml)
