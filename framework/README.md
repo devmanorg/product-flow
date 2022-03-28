@@ -13,7 +13,6 @@
 
 ![](./images/assignment_flow.drawio.png)
 
-![](./images/sub_products_in_solo.drawio.png)
 
 ## Читать далее
 
