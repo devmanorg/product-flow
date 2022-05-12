@@ -97,11 +97,10 @@ how_to_check: # ✅ Как проверить, что продукт готов
     - ☐ [форма 1](https://youtu.be/nsXV4PGMmrk)
     - ☐ [форма 2](https://youtu.be/YTTJV2K5WOA)
     - ☐ [форма 3](https://youtu.be/iJV8O4Vh7Vw)
-    - ☐ [нормальная форма Бойса-Кодда](https://youtu.be/4Q1rXfVUaY8)
-    - ☐ [форма 4](https://youtu.be/xSPd6atE40o)
-    - ☐ [форма 5](https://youtu.be/uoXDSljxw0w)
+    - ☐ [нормальная форма Бойса-Кодда](https://habr.com/ru/post/254773/)
+    - ☐ [форма 4](https://ru.abcdef.wiki/wiki/Database_normalization#Satisfying_4NF)
+    - ☐ [форма 5](https://ru.abcdef.wiki/wiki/Database_normalization#Satisfying_5NF)
     - ☐ [доменно-ключевая нормальная форма](https://ru.abcdef.wiki/wiki/Database_normalization#Satisfying_DKNF)
-    - ☐ [форма 6](https://ru.abcdef.wiki/wiki/Database_normalization#Satisfying_6NF)
   - ☐ В схеме есть данные для всех известных пользовательских историй
   - ☐ Из всех пользовательских историй выбраны самые сложные и для них составлены примеры запросов
   - ☐ Указано корректное русскоязычное название:
