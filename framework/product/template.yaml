@@ -1,4 +1,5 @@
-name: Задание на «…»
+product: ${Название итогового продукта}
+formatVersion: v0.2
 
 intro: |
   …
