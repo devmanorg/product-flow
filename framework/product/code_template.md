@@ -37,6 +37,6 @@ ${роль} — ${работа}: !func
 
 ```yaml
 ${новое название функции}: !import
-  path: ${rel_path_or_url}
+  from: ${rel_path_or_url}
   func: ${название функции}
 ```
