@@ -1,6 +1,6 @@
 # Assignment as a Code
 
-## Ментальная модель
+## Концепты
 
 ```yaml
 ${сущность}: !concept
