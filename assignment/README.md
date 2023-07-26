@@ -5,7 +5,7 @@
 
 Подсистема «Product Flow Assignment» даёт инструменты для описания результата работы в виде задания, но нарочно
 избегает учёта задач и не может заменить таск-трекер. Если вам нужен учёт задач или заказов, то используйте
-Product Flow Assignment совместно с [Product Flow Projects](../projects), либо с любым другим таск-трекером:
+Product Flow Assignment совместно с [Product Flow Tasks](../tasks), либо с любым другим таск-трекером:
 Trello, Asana, GitHib Issues, etc.
 
 

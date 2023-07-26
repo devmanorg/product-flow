@@ -68,5 +68,5 @@ TODO
 Product Flow включает в себя несколько подсистем:
 
 - [Задания — Product Flow Assignment](assignment)
-- [Проекты — Product Flow Projects](projects)
-- [Каталог заданий и проектов](catalog)
+- [Задачи — Product Flow Tasks](tasks)
+- [Каталог заданий и задач](catalog)
