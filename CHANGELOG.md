@@ -12,6 +12,7 @@
 Не в релизе
 ------------------------
 
+- Из Product Flow Assignment удалён флаг "сделано"
 - Подсистема Product Flow Projects переименована в Product Flow Tasks
 - Документы в репозитории разбиты по подсистемам Product Flow: Assignment, Projects, Catalog
 - Удалены все устаревшие материалы: статьи, задания в старом формате, схемы.
