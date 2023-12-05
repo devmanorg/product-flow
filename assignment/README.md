@@ -20,7 +20,7 @@ Product Flow Assignment даёт инструменты для учёта зад
 
 ## С чего начать
 
-Product Flow Assignment многое заимствует из Jobes To Be Done (JTBD). Полезная литература по теме:
+Product Flow Assignment многое заимствует из Jobs To Be Done (JTBD). Полезная литература по теме:
 
 - https://tilda.education/articles-jobs-to-be-done
 - https://scrumtrek.ru/blog/product-management/2492/gajd-po-tehnike-jobs-to-be-done-jtbd/
